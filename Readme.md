@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CheckBox.cs](./CS/Q240157/CheckBox.cs) (VB: [CheckBox.vb](./VB/Q240157/CheckBox.vb))
+<!-- default file list end -->
 # How to introduce the capability to align the CheckEdit's glyph vertically
 
 
